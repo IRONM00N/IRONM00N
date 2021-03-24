@@ -9,5 +9,5 @@
 
 ## About
 
-</div>
 Some random guy on the internet.
+</div>
