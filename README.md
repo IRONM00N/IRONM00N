@@ -9,5 +9,6 @@
 
 ## About
 
-Some random guy on the internet.
+Computer Science student at Northeastern University.
+
 </div>
